@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Joshua Lucker"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in Biophysics at the University of Maryland College Park. Undergraduate Double major in Chemistry and Mathematics at the University of Maryland, Baltimore County"
+  avatar : "/assets/images/Joshua%20Lucker%20Profile%20Picture.jpg"
+  bio    : "PhD student in Biophysics at the University of Maryland College Park."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
 
 footer:
   links:
