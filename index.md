@@ -8,3 +8,4 @@ layout: single
 author_profile: true
 image: /assets/images/Joshua Lucker Profile Picture.jpg
 ---
+Welcome to Joshua Lucker's Personal Website!
